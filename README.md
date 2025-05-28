@@ -126,6 +126,6 @@ python food-delivery.py
 
 ## 📬 Connect With Me
 
-📧 your.email@example.com  
-💼 [LinkedIn](https://www.linkedin.com/in/your-profile)  
-📁 [Portfolio](https://your-portfolio-link.com)
+📧 Email: [aparnanaik135@gmail.com](mailto:aparnanaik135@gmail.com)  
+💼 LinkedIn: [linkedin.com/in/aparnanaik135](https://www.linkedin.com/in/aparnanaik135)  
+
