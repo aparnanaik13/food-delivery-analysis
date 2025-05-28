@@ -66,7 +66,7 @@ This project leverages a dataset of 1000 food delivery orders to:
 - 🥧 **Cost Proportion Pie Chart** – Discounts dominate cost structure  
 - 📊 **Revenue vs Costs vs Profit Bar Chart**
 
-> (Add actual image links or screenshots here once generated and uploaded)
+![Total Revenue vs Costs vs Profit](Revenue%20vs%20Costs%20vs%20Profit%20Bar%20Chart.png)
 
 ---
 
