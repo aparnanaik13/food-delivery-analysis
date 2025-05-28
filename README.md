@@ -86,7 +86,7 @@ This project leverages a dataset of 1000 food delivery orders to:
 
 - Comparison of **actual vs. simulated** profitability using KDE plot
 
-> (Add comparison plot image link here)
+![Profitability KDE Comparison](actual%20vs.%20simulated%20profitability%20using%20KDE%20plot.png)
 
 > 📈 Simulation shows significant profit improvement under new strategy.
 
